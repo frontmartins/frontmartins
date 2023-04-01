@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Rafael Martins 🙋🏿‍♂️
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rafael-oliveira-martins-11891a21b)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("linkedin.com/in/rafael-oliveira-martins-11891a21b")
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](51996176336)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaellvrmrtns77@gmail.com)
 
